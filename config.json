@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpalidate",
+        "uuid": 253344,
+        "checksum": "skqahl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
